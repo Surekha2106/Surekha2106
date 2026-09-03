@@ -6,30 +6,32 @@
 <!-- Quick Connect URLs Right At The Front -->
 <p align="center">
   <a href="https://surekha-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-161b22?style=flat&logo=googlechrome&logoColor=FF79C6" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=FF79C6" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/a-surekha-489283380" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Surekha2106" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub-161b22?style=flat&logo=github&logoColor=ffffff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/surekha_mns/" target="_blank">
-    <img src="https://img.shields.io/badge/🧩_LeetCode-161b22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:surekhamns2106@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-161b22?style=flat&logo=gmail&logoColor=FF5555" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email" />
   </a>
 </p>
 
-<!-- Live Dynamic Typing Tagline -->
-<a href="https://surekha-portfolio-two.vercel.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=✦+Final-Year+CSBS+Student+🎓;✦+Java+%26+Full+Stack+Development+Enthusiast+☕;✦+Crafting+Clean+Web+Apps+%26+Smart+AI+Solutions+🌸;✦+Solving+Problems+%26+Practicing+DSA+Daily+🧩" alt="Typing Tagline" />
-</a>
+<!-- Perfectly Aligned Dynamic Single-Line Typewriter Tagline -->
+<p align="center">
+  <a href="https://surekha-portfolio-two.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&height=50&lines=Final-Year+CSBS+Student+🎓;Java+%26+Full+Stack+Developer+☕;Building+Modern+Web+Apps+%26+Smart+AI+Solutions+🌸;Problem+Solver+%26+DSA+Enthusiast+🧩" alt="Typing Tagline" />
+  </a>
+</p>
 
 <br/>
 
