@@ -165,12 +165,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surekha2106&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2&icon_color=FF79C6" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha2106&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="160" alt="Top Languages" />
+<!-- Animated GitHub Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surekha2106&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Surekha's GitHub Activity Graph" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Surekha2106&theme=radical&hide_border=true&background=00000000&ring=FF79C6&fire=FF5555&currStreakLabel=FF79C6" alt="GitHub Streak" />
+<!-- GitHub Profile Achievement Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Surekha2106&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
