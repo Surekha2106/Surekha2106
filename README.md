@@ -1,7 +1,30 @@
 <div align="center">
 
 <!-- Animated Twinkling Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,18,24,30&height=230&section=header&text=Hi%20there,%20I'm%20Surekha%20🌸✨&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,18,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Surekha%20🌸✨&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+
+<!-- Quick Connect URLs Right At The Front -->
+<p align="center">
+  <a href="https://surekha-portfolio-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-161b22?style=flat&logo=googlechrome&logoColor=FF79C6" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/a-surekha-489283380" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Surekha2106" target="_blank">
+    <img src="https://img.shields.io/badge/💻_GitHub-161b22?style=flat&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/surekha_mns/" target="_blank">
+    <img src="https://img.shields.io/badge/🧩_LeetCode-161b22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:surekhamns2106@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-161b22?style=flat&logo=gmail&logoColor=FF5555" alt="Email" />
+  </a>
+</p>
 
 <!-- Live Dynamic Typing Tagline -->
 <a href="https://surekha-portfolio-two.vercel.app/">
@@ -10,32 +33,9 @@
 
 <br/>
 
-<!-- Cute Minimalist Social Buttons -->
-<p align="center">
-  <a href="https://surekha-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat&logo=googlechrome&logoColor=FF79C6" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/a-surekha-489283380" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Surekha2106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/surekha_mns/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-161b22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:surekhamns2106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=flat&logo=gmail&logoColor=FF5555" alt="Email" />
-  </a>
-</p>
-
 <!-- Aesthetic Developer Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surekha2106/Surekha2106/main/assets/coding.gif" width="420" style="border-radius: 16px;" alt="Aesthetic Developer Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Surekha2106/Surekha2106/main/assets/coding.gif" width="400" style="border-radius: 16px;" alt="Aesthetic Developer Coding Animation" />
 </p>
 
 <!-- Animated Rainbow Sparkle Ribbon Separator -->
@@ -45,7 +45,7 @@
 
 ## 🌸 About Me
 
-- 🎓 **Final-Year CSBS Student** at B.Tech with an academic track record of **8.59 CGPA**.
+- 🎓 **Final-Year CSBS Student** with an academic track record of **8.59 CGPA**.
 - ☕ **Backend Engineering:** Passionate about building robust, scalable REST APIs & architectures with **Java and Spring Boot**.
 - 🎨 **Full Stack Development:** Experienced in crafting responsive user interfaces with **React** and connecting them with secure backend services.
 - 🗄️ **Database Management:** Hands-on experience designing schemas in **PostgreSQL** and **MongoDB**.
@@ -57,11 +57,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<!-- Glowing Animated Tech Stack Icons -->
 <a href="https://github.com/Surekha2106">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,html,css,postgres,mongodb,git,github,vscode,eclipse&theme=dark" alt="Tech Skills" />
 </a>
@@ -75,7 +74,7 @@
 - 🎨 **Frontend:** `React.js` • `HTML5` • `CSS3`
 - 🗄️ **Databases:** `PostgreSQL` • `MongoDB` • `Flyway Migration`
 - 🧰 **Tools & Platforms:** `Git` • `GitHub` • `VS Code` • `Eclipse` • `Antigravity`
-- 📚 **CS Core:** `Data Structures & Algorithms` • `OOP` • `DBMS` • `Computer Networks`
+- 📚 **CS Fundamentals:** `Data Structures & Algorithms` • `OOP` • `DBMS` • `Computer Networks`
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -84,51 +83,32 @@
 ## 🚀 Featured Projects
 
 ### 🌿 01. CarbonTrack — Carbon Footprint Tracking System
-> *A comprehensive backend system engineered to track, calculate, and analyze carbon emissions from routine user activities with detailed time-series insights.*
-
-- 🛠️ **Tech Stack:** `Java` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `Flyway` • `REST APIs`
-- ✨ **Key Highlights:**
-  - Secure user authentication and role-based permissions powered by **JWT**.
-  - RESTful architecture to record user activities and calculate estimated carbon footprints.
-  - Analytics engine generating daily, weekly, and monthly emission tracking metrics.
-  - Automated database schema migrations and version management via **Flyway**.
-- 👩‍💻 **My Contribution:** Built the backend architecture, database models, and REST endpoints for authentication and emission calculations.
+> Backend system for logging and analyzing personal & activity carbon emissions with time-series analytics.
+- **Tech Stack:** `Java` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `Flyway` • `REST APIs`
+- **Key Features:** JWT authentication, emission calculation APIs, daily/weekly/monthly analytics, and Flyway database migrations.
 - 🔗 **Repository:** `Coming Soon`
 
 <br/>
 
 ### 🎬 02. Audiovisual Synchronization Neural Engine
-> *An intelligent AI web application for automated video translation and multilingual dubbing with dynamic speed synchronization.*
-
-- 🛠️ **Tech Stack:** `Python` • `Vosk` • `gTTS` • `FFmpeg` • `AI/ML` • `Full Stack Web Development`
-- ✨ **Key Highlights:**
-  - Offline automated speech recognition (ASR) integration using **Vosk**.
-  - Multilingual voice synthesis generated using **gTTS** (Google Text-to-Speech).
-  - Audio extraction and multi-track audio/video rendering with **FFmpeg**.
-  - Dynamic audio time-stretching algorithm to align translated dubbing with original video timestamps.
-  - Automated multilingual subtitle creation and synchronization.
-- 👩‍💻 **My Contribution:** Engineered the complete media processing pipeline connecting speech recognition, translation, audio stretching, and final video rendering.
+> Full-stack AI web app for automated video translation and multilingual dubbing with dynamic pacing sync.
+- **Tech Stack:** `Python` • `Vosk` • `gTTS` • `FFmpeg` • `AI/ML` • `Full Stack Web Development`
+- **Key Features:** Offline speech recognition (Vosk), text-to-speech (gTTS), dynamic audio speed stretching, and auto-subtitles.
 - 🔗 **Repository:** `Coming Soon`
 
 <br/>
 
 ### 🔐 03. SecureCred — Digital Credential Verification Platform
-> *A full-stack verification platform built to eliminate document fraud through cryptographic validation and dynamic QR authentication.*
-
-- 🛠️ **Tech Stack:** `Java` • `Spring Boot` • `SHA-256` • `QR Code Authentication` • `RBAC` • `Full Stack Development`
-- ✨ **Key Highlights:**
-  - Tamper-proof credential verification using **SHA-256** cryptographic checksum hashing.
-  - Instant authenticity verification via dynamic QR code generation.
-  - Role-Based Access Control (**RBAC**) securing administrative workflows.
-  - Interactive management dashboard for issuing and validating credentials.
-- 👩‍💻 **My Contribution:** Developed the Spring Boot backend, implemented checksum hashing logic, and integrated QR verification flows.
+> Full-stack verification platform eliminating document fraud via cryptographic checksums and dynamic QR codes.
+- **Tech Stack:** `Java` • `Spring Boot` • `SHA-256` • `QR Code Authentication` • `RBAC` • `Full Stack Development`
+- **Key Features:** SHA-256 cryptographic verification, dynamic QR validation, Role-Based Access Control, and management dashboard.
 - 🔗 **Repository:** `Coming Soon`
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-## 💼 Experience & Internships
+## 💼 Internships & Experience
 
 - 💻 **Web Development Intern** — `[Company Name]` | `[Duration]`  
   *Developed interactive UI components, structured web layouts, and collaborated on responsive frontend modules.*
@@ -183,13 +163,11 @@
 
 <div align="center">
 
-<!-- Animated GitHub Stats & Top Languages in Neon Pink Theme -->
 <img src="https://github-readme-stats.vercel.app/api?username=Surekha2106&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2&icon_color=FF79C6" height="160" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha2106&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="160" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Animated Streak Stats with Glowing Flame -->
 <img src="https://streak-stats.demolab.com?user=Surekha2106&theme=radical&hide_border=true&background=00000000&ring=FF79C6&fire=FF5555&currStreakLabel=FF79C6" alt="GitHub Streak" />
 
 </div>
