@@ -5,7 +5,7 @@
 
 <!-- Live Dynamic Typing Tagline -->
 <a href="https://surekha-portfolio-two.vercel.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&width=650&height=95&lines=✦+Final-Year+CSBS+Student+🎓;✦+Java+%26+Full+Stack+Development+Enthusiast+☕;✦+Crafting+Clean+Web+Apps+%26+Smart+AI+Solutions+🌸;✦+Solving+Problems+%26+Practicing+DSA+Daily+🧩" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=✦+Final-Year+CSBS+Student+🎓;✦+Java+%26+Full+Stack+Development+Enthusiast+☕;✦+Crafting+Clean+Web+Apps+%26+Smart+AI+Solutions+🌸;✦+Solving+Problems+%26+Practicing+DSA+Daily+🧩" alt="Typing Tagline" />
 </a>
 
 <br/>
@@ -33,9 +33,9 @@
   </a>
 </p>
 
-<!-- Aesthetic Cozy Lofi Developer Animation -->
+<!-- Aesthetic Developer Animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c3d-eec5ab329b47.gif" width="460" style="border-radius: 16px;" alt="Aesthetic Developer Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Surekha2106/Surekha2106/main/assets/coding.gif" width="420" style="border-radius: 16px;" alt="Aesthetic Developer Coding Animation" />
 </p>
 
 <!-- Animated Rainbow Sparkle Ribbon Separator -->
