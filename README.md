@@ -157,21 +157,21 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-## 📊 GitHub Analytics
+## 📊 GitHub & Coding Highlights
 
 <div align="center">
 
-<!-- Animated GitHub Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surekha2106&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Surekha's GitHub Activity Graph" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-190%2B_in_Past_Year-161b22?style=for-the-badge&logo=github&logoColor=FF79C6" alt="Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repositories-17_Projects-161b22?style=for-the-badge&logo=git&logoColor=7AA2F7" alt="Repositories" />
+</p>
 
-<br/><br/>
-
-<!-- GitHub Profile Achievement Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Surekha2106&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-LeetCode_Active-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Core_Language-Java_%26_Python-161b22?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Core Language" />
+</p>
 
 </div>
 
