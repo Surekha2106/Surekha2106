@@ -187,34 +187,7 @@
 - 🎯 Preparing systematically for software engineering technical interviews.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-## 📫 Let's Connect!
-
 <div align="center">
-
-<p align="center">
-  <a href="https://surekha-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat&logo=googlechrome&logoColor=FF79C6" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/a-surekha-489283380" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Surekha2106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/surekha_mns/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-161b22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:surekhamns2106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=flat&logo=gmail&logoColor=FF5555" alt="Email" />
-  </a>
-</p>
 
 <!-- Animated Twinkling Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,18,24,30&height=120&section=footer" width="100%" alt="Footer Banner" />
